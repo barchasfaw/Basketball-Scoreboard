@@ -1,0 +1,61 @@
+body {
+    margin: 70px 82px 69px 83px;
+    background: #1B244A;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+#home-el {
+    background: #080001;
+    padding: 20px 40px;
+    margin-left: 15px;
+    font-family: 'Cursed Timer ULiL';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 90px;
+    line-height: 127px;
+    /* or 141% */
+
+    text-align: center;
+
+    color: #F94F6D;
+
+}
+
+#guest-el {
+    background: #080001;
+    padding: 20px 40px;
+    margin-left: 15px;
+    font-size: 100px; 
+    font-family: 'Cursed Timer ULiL';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 90px;
+    line-height: 127px; 
+    text-align: center;
+    color: #F94F6D;
+}
+
+h3 {
+    
+font-family: 'Verdana';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 36px;
+/* identical to box height, or 90% */
+
+text-align: center;
+
+color: #EEEEEE;
+
+}
+button {
+    text-align: center;
+}
+.btn {
+    margin: 23px
+}
